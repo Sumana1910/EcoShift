@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/31/e1/d4/31e1d4ecc615d02c3206ffe57a8bde4b.jp" alt="LSTM Model" width="500"/>
+  <img src="https://i.pinimg.com/736x/31/e1/d4/31e1d4ecc615d02c3206ffe57a8bde4b.jpg" alt="header" width="500"/>
 </p>
 
 # 🌍 Ecoshift: Climate Change Forecasting & Analysis System
