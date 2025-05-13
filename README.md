@@ -1,8 +1,8 @@
 # 🌍 Ecoshift: Climate Change Forecasting & Analysis System
-Ecoshift is a powerful climate modeling and forecasting system that leverages advanced machine learning and statistical techniques to understand and anticipate the impacts of climate change on ecological systems, biodiversity, and human sectors like agriculture and public health.
+**Ecoshift** is a powerful climate modeling and forecasting system that leverages advanced machine learning and statistical techniques to understand and anticipate the impacts of climate change on ecological systems, biodiversity, and human sectors like agriculture and public health.
 
 # 🔍 Overview
-Ecoshift integrates a combination of Artificial Neural Networks (ANN), including Multi-Layer Perceptron (MLP) and Long Short-Term Memory (LSTM) models, alongside traditional ARIMA (Autoregressive Integrated Moving Average) models. This hybrid approach enables the system to:
+**Ecoshift** integrates a combination of Artificial Neural Networks (ANN), including Multi-Layer Perceptron (MLP) and Long Short-Term Memory (LSTM) models, alongside traditional ARIMA (Autoregressive Integrated Moving Average) models. This hybrid approach enables the system to:
 
 1. Capture complex nonlinear relationships in climate data
 2. Identify temporal trends and long-term patterns
@@ -28,3 +28,8 @@ Ecoshift integrates a combination of Artificial Neural Networks (ANN), including
 
 - **Decision-Making Support:**  
   By synthesizing insights from different models, Ecoshift offers **evidence-based recommendations** to guide proactive policy-making and sustainable planning efforts.
+
+
+![Model Result](https://github.com/Sumana1910/EcoShift/blob/main/Screenshot%202025-05-14%20035848.png)
+
+  
