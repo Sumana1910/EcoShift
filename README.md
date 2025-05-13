@@ -1,4 +1,6 @@
-![Model Result](https://i.pinimg.com/736x/f6/04/06/f604065c20d2b4e59d390c2c606940a9.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/31/e1/d4/31e1d4ecc615d02c3206ffe57a8bde4b.jp" alt="LSTM Model" width="500"/>
+</p>
 
 # 🌍 Ecoshift: Climate Change Forecasting & Analysis System
 **Ecoshift** is a powerful climate modeling and forecasting system that leverages advanced machine learning and statistical techniques to understand and anticipate the impacts of climate change on ecological systems, biodiversity, and human sectors like agriculture and public health.
