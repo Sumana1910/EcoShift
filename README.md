@@ -31,5 +31,6 @@
 
 
 ![Model Result](https://github.com/Sumana1910/EcoShift/blob/main/Screenshot%202025-05-14%20035848.png)
+![Model Result](https://github.com/Sumana1910/EcoShift/blob/main/Screenshot%202025-05-14%20035745.png)
 
   
